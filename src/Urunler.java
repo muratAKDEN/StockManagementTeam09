@@ -3,6 +3,9 @@ import java.util.Map;
 
 public class Urunler {
 
+  //Daha sonra methodları üzerine bina edeceğimiz map ve const. oluşturuldu. Getter ve Setter create edildi.
+  //İhtiyaç duyulabilir diye to string metodu hazır edildi.
+
 
   static Map<Integer,Urunler> urunListesiMap = new HashMap<>();
 
