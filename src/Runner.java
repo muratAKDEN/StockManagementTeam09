@@ -6,5 +6,7 @@ public class Runner {
 
         DepoIslemler obje=new DepoIslemler();
         obje.girisMenusu();
+
+        System.out.println("sdlfh");
     }
 }
